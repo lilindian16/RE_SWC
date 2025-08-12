@@ -4,7 +4,7 @@ _The RE_SWC (Rotary Encoder Steering Wheel Controller) is a plug-and-play kit to
 
 ![RE_SWC Product Render](/Images/RE_SWC_kit.png)
 
-The RE_SWC kit can be purchased from [Tindie](https://www.tindie.com/products/39419/)
+<a href="https://www.tindie.com/stores/lilindian14/?ref=offsite_badges&utm_source=sellers_lilindian14&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 ## Features:
 
