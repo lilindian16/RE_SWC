@@ -29,3 +29,7 @@ The [Hardware Report](https://docs.google.com/spreadsheets/d/1KuhRTHHPlsPpQyRziJ
 Most headunits supporting steering wheel control input learning/remapping should support this device.
 
 Note: I cannot guarantee this will work with your headunit - there is a decent chance it should if I list it as compatible
+
+## User Guide
+
+The [User Guide](Docs/RE_SWC%20USER%20GUIDE.pdf) can be found in the Docs subfolder of this repository
